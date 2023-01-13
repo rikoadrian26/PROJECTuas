@@ -3,7 +3,9 @@
 - Nama  : Riko adrian maulana
 - NIM   : 312210363
 - Kelas : TI.22.B2
-
+# file pdf
+- [project.pdf](https://github.com/rikoadrian26/PROJECTuas/files/10408993/project.pdf)
+- link youtube
 # KETENTUAN PROGRAM
 
 ![Screenshot (106)](https://user-images.githubusercontent.com/115749975/211749541-11a9e158-e6f3-450f-b43f-fed619bee518.png)
