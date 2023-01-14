@@ -6,7 +6,7 @@
 
 # file pdf
 - [project.pdf](https://github.com/rikoadrian26/PROJECTuas/files/10408993/project.pdf)
-- link youtube : https://youtu.be/WUzeSY2yILc
+- link youtube : https://youtu.be/7XdEH4K-r84
 
 # KETENTUAN PROGRAM
 
